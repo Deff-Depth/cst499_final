@@ -1,0 +1,19 @@
+# Ignore environment files
+.env
+.env.local
+*.env
+
+# Ignore sensitive configuration files
+db_connection.php
+
+# Ignore dependency directories
+/vendor/
+/venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files and temporary files
+*.log
+tmp/
