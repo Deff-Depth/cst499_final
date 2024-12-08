@@ -15,7 +15,7 @@ Installation and Setup
     Git installed.
 Steps
     Clone the Repository: 
-        git clone https://github.com/yourusername/your-repo.git
+        git clone https://github.com/Deff-Depth/cst499_final
         cd your-repo
 
     Install PHP Dependencies
